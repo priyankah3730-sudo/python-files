@@ -1,0 +1,6 @@
+s2 = input("Entre a sentence: ")
+length =  len(s2.replace(" ",""))
+print("The length of the sentence without spaces is:", length)
+print("My self\t priyanka\nI am a engineering student")
+print("I am currently learning \\python programming")
+print("my brother loves to \"Travel around the world\"")
