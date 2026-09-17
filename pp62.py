@@ -1,0 +1,18 @@
+number = [1,16,35,8,50,20]
+print(number)
+length=len(number)
+sorted_num= sorted(number)
+print(sorted_num)
+print(number.sort())
+sum2 = sum(number)
+print(sum2)
+print(number.count(50))
+print(number.index(8))
+print(max(number))
+rev = list(reversed(number))
+print(rev)
+print(number.reverse())
+s1 = [1,3,5,6]
+sum1 = sum(s1)
+print(sum1)
+print(min(s1))
