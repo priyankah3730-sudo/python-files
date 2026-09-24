@@ -34,7 +34,7 @@ while j<20:
 count = 0
 sum = 0
 while count<=10:
-    sum+=1
+    sum+=count
     print("Sum =",sum)
     
 
