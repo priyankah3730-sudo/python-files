@@ -29,6 +29,13 @@ while j<20:
     print(j)
     j+=2
     
+
+#sum of first 10 numbers
+count = 0
+sum = 0
+while count<=10:
+    sum+=1
+    print("Sum =",sum)
     
 
 
