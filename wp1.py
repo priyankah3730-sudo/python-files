@@ -35,7 +35,8 @@ count = 0
 sum = 0
 while count<=10:
     sum+=count
-    print("Sum =",sum)
+    count+=1
+print("Sum =",sum)
     
 
 
