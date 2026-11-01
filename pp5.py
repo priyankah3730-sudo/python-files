@@ -1,7 +1,0 @@
-x = int(input("Enter first number:"))
-y = int(input("Enter second number:"))
-print((x==y) and (x>y))
-print((x>y) and (y<x))
-print((x>y) or (x<y))
-print((x<y) or (y>x))
-print(not(x>y))

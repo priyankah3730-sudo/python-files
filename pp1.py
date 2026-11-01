@@ -1,3 +1,0 @@
-
-print("NAMASKARA")
-print("I HAVE STARTED TO LEARN PYTHON")
